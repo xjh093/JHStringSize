@@ -1,0 +1,2 @@
+# JHStringSize
+String Size
